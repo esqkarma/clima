@@ -1,16 +1,22 @@
-# clima
+# 🌤️ Clima
+**Clima** is a clean and lightweight weather-news app built with Flutter, combining real-time weather updates and trending news based on the user’s location. It delivers accurate weather data alongside curated news in a minimal, easy-to-use interface.
 
-A new Flutter project.
+# 🚀 Features
+🌦️ Get current weather (temperature, AQI, wind, etc.)
 
-## Getting Started
+📰 View top news headlines relevant to your region
 
-This project is a starting point for a Flutter application.
+**📍 Location**-based weather and news data
 
-A few resources to get you started if this is your first Flutter project:
+**🧩 Provider**-based state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠 Tech Stack
+**Flutter** – for app development
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Provider** – for state management
+
+**Dart** – programming language
+
+**Weather API**– for weather data (https://www.weatherapi.com/)
+
+**NewsAPI**– for news articles (https://newsapi.org/)
